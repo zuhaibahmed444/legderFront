@@ -90,7 +90,7 @@ const CreateTransaction = () => {
           <option value="debited">Debited</option>
         </select>
 
-        <button type="submit">Create Task</button>
+        <button type="submit">Create Transaction</button>
       </form>
     </div>
   );

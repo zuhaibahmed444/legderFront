@@ -40,7 +40,7 @@ const Transactions = () => {
   return (
     <div className="trans-list-page-container">
       <div className="header-container">
-        <h2>transa List</h2>
+        <h2>Transaction's List</h2>
         <div className="d-flex justify-content-first" id="navbarNav">
         <div className="d-flex total-amount me-4 mb-4"> 
         <Link to="/create" className="nav-link mf-6"><button className="btn my-buttons">Create</button></Link>
